@@ -1,1 +1,0 @@
-Main-Class: pl.lantkowiak.openshift.Application
